@@ -8,8 +8,15 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@apollo/client": "^3.11.1",
+    "@vue-leaflet/vue-leaflet": "^0.10.1",
     "core-js": "^3.8.3",
-    "vue": "^3.2.13"
+    "graphql": "^16.9.0",
+    "leaflet": "^1.9.4",
+    "leaflet.markercluster": "^1.5.3",
+    "pinia": "^2.1.7",
+    "vue": "^3.2.13",
+    "vue-leaflet-markercluster": "^0.6.1"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
